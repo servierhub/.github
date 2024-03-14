@@ -3,7 +3,7 @@
 ![Servier Powered](https://raw.githubusercontent.com/servierhub/.github/main/badges/powered.svg)
 
 Welcome to the [Servier](https://servier.com/) Open Source Hub.
-This GitHub groups [all Open Source, contributed, inspired or built by Servier](https://github.com/topics/servier).
+This GitHub groups [all Open Source software, contributed, inspired or built by Servier](https://github.com/topics/servier).
 
 Here you'll find all details about the initiative, our goals and more.
 
