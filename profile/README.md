@@ -12,7 +12,7 @@ Here you'll find all details about the initiative, our goals and more.
 * Add a [Servier badge](https://github.com/servierhub/.github) to your README.
 * Request to fork your project within the Servier Hub organization. We will fork only the main repository in the case of multi-repo projects.
 
-We value contributions from anyone. Feel free to fork our projects and send pull requests for yor contributions.
+We value contributions from anyone. Feel free to fork our projects and send pull requests for your contributions.
 
 ## We are hiring!
 Check our [Digital, Data and Information Systems job opportunities](https://jobs.servier.com/search/?createNewAlert=false&q=&optionsFacetsDD_customfield4=Digital%2C+Data+%26+Syst%C3%A8mes+d%27information)!
