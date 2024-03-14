@@ -1,6 +1,6 @@
 # Servier Hub
 
-![Servier Powered](https://raw.githubusercontent.com/servierhub/servierhub-charter/main/badges/powered.svg)
+![Servier Powered](https://raw.githubusercontent.com/servierhub/sh-charter/main/badges/powered.svg)
 
 Welcome to the Servier Hub. This GitHub groups all Open Source projects, contributed, inspired or built by Servier.
 You find all details about the initiative, our goals and more.
@@ -26,7 +26,7 @@ pip install pybadges
 
 For more details, click [here](https://github.com/google/pybadges)
 
-### Contribution Badge ![Servier Inspired](https://raw.githubusercontent.com/servierhub/servierhub-charter/main/badges/contributed.svg)
+### Contribution Badge ![Servier Inspired](https://raw.githubusercontent.com/servierhub/sh-charter/main/badges/contributed.svg)
 
 Add this link to your README:
 
@@ -34,7 +34,7 @@ Add this link to your README:
 ![Servier Inspired](https://raw.githubusercontent.com/servierhub/servierhub-charter/main/badges/contributed.svg)
 ```
 
-### Inspiration Badge ![Servier Inspired](https://raw.githubusercontent.com/servierhub/servierhub-charter/main/badges/inspired.svg)
+### Inspiration Badge ![Servier Inspired](https://raw.githubusercontent.com/servierhub/sh-charter/main/badges/inspired.svg)
 
 Add this link to your README:
 
@@ -42,7 +42,7 @@ Add this link to your README:
 ![Servier Inspired](https://raw.githubusercontent.com/servierhub/servierhub-charter/main/badges/inspired.svg)
 ```
 
-### Powered Badge ![Servier Inspired](https://raw.githubusercontent.com/servierhub/servierhub-charter/main/badges/powered.svg)
+### Powered Badge ![Servier Inspired](https://raw.githubusercontent.com/servierhub/sh-charter/main/badges/powered.svg)
 
 Add this link to your README:
 
