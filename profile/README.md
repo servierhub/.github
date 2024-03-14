@@ -7,6 +7,6 @@ You find all details about the initiative, our goals and more.
 
 ## How to submit to link your project to ServierHub ?
 
-* your own Github repositories and link them to the project by using the servier topic
-* add a badge to your README, click [here](https://github.com/servierhub/.github) for more details
-* request to fork your project or your contribution within the ServierHub organisation
+* Your own Github repositories and link them to the project by using the servier topic
+* Add a badge to your README, click [here](https://github.com/servierhub/.github) for more details
+* Request to fork your project or your contribution within the ServierHub organisation. We will fork only the main repository in the case of multi-repo projects.
