@@ -15,4 +15,4 @@ Here you'll find all details about the initiative, our goals and more.
 ## We are hiring!
 Check our [Digital, Data and Information Systems job opportunities](https://jobs.servier.com/search/?createNewAlert=false&q=&optionsFacetsDD_customfield4=Digital%2C+Data+%26+Syst%C3%A8mes+d%27information)!
 
-Our group also offers a wide range of [job opportunities](https://jobs.servier.com/?locale=en_GB) all over the world.
+Our group also offers a wide range of other [job opportunities](https://jobs.servier.com/?locale=en_GB) all over the world.
