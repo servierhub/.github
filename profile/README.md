@@ -31,7 +31,7 @@ For more details, click [here](https://github.com/google/pybadges)
 Add this link to your README:
 
 ```markdown
-![Servier Inspired](https://raw.githubusercontent.com/servierhub/servierhub-charter/main/badges/contributed.svg)
+![Servier Inspired](https://raw.githubusercontent.com/servierhub/sh-charter/main/badges/contributed.svg)
 ```
 
 ### Inspiration Badge ![Servier Inspired](https://raw.githubusercontent.com/servierhub/sh-charter/main/badges/inspired.svg)
@@ -39,7 +39,7 @@ Add this link to your README:
 Add this link to your README:
 
 ```markdown
-![Servier Inspired](https://raw.githubusercontent.com/servierhub/servierhub-charter/main/badges/inspired.svg)
+![Servier Inspired](https://raw.githubusercontent.com/servierhub/sh-charter/main/badges/inspired.svg)
 ```
 
 ### Powered Badge ![Servier Inspired](https://raw.githubusercontent.com/servierhub/sh-charter/main/badges/powered.svg)
@@ -47,6 +47,6 @@ Add this link to your README:
 Add this link to your README:
 
 ```markdown
-![Servier Inspired](https://raw.githubusercontent.com/servierhub/servierhub-charter/main/badges/powered.svg)
+![Servier Inspired](https://raw.githubusercontent.com/servierhub/sh-charter/main/badges/powered.svg)
 ```
 
