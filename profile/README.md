@@ -8,8 +8,8 @@ This GitHub showcases [Open Source software, contributed, inspired or built by S
 Here you'll find all details about the initiative, our goals and more.
 
 ## How to submit your project to the Servier Hub?
-* Your own Github repositories and link them to the project by using the [servier topic](https://github.com/topics/servier).
-* Add a badge to your README, click [here](https://github.com/servierhub/.github) for more details.
+* Link your own Github repositories to the project by using the [servier topic](https://github.com/topics/servier).
+* Add a Servier badge to your README, click [here](https://github.com/servierhub/.github) for more details.
 * Request to fork your project or your contribution within the Servier Hub organisation. We will fork only the main repository in the case of multi-repo projects.
 
 ## We are hiring!
