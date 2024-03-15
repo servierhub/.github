@@ -1,6 +1,4 @@
 # Servier Open Source Hub
-[![Servier Powered](https://raw.githubusercontent.com/servierhub/.github/main/badges/powered.svg)](https://servier.com/en/)
-
 Welcome to the [Servier](https://servier.com/en/) Hub.
 This initiative showcases [Open Source software, contributed, inspired or built by Servier and its people](https://github.com/topics/servier).
 
@@ -9,9 +7,9 @@ At Servier, we believe in [Open Innovation](https://servier.com/en/research-inno
 
 Beyond scientific research, [Digital, Data and Information Systems are also a key element of our innovation and transformation](https://servier.com/en/newsroom/digital-data-pillars-transformation/).
 
-So open source and the people behind it are a natural way of fostering a technological culture.
+So open source and the people behind it are a natural way of fostering a technological culture within our Group.
 
-**We love "tech" and we value our tech people!**
+**We love "tech" and we value our tech people!** [![Servier Powered](https://raw.githubusercontent.com/servierhub/.github/main/badges/powered.svg)](https://servier.com/en/)
 
 ## How to submit your project to the Servier Hub?
 * Link your own Github repositories to the project by using the [servier topic](https://github.com/topics/servier).
