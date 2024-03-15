@@ -1,15 +1,23 @@
 # Servier Open Source Hub
-![Servier Powered](https://raw.githubusercontent.com/servierhub/.github/main/badges/powered.svg)
+[![Servier Powered](https://raw.githubusercontent.com/servierhub/.github/main/badges/powered.svg)](https://servier.com/en/)
 
-Welcome to the [Servier](https://servier.com/) Hub.
-This GitHub showcases [Open Source software, contributed, inspired or built by Servier](https://github.com/topics/servier).
+Welcome to the [Servier](https://servier.com/en/) Hub.
+This initiative showcases [Open Source software, contributed, inspired or built by Servier and its people](https://github.com/topics/servier).
 
-Here you'll find all details about the initiative, our goals and more.
+## Why open sourcing some of our software?
+At Servier, we believe in [Open Innovation](https://servier.com/en/research-innovation/open-innovation/) as the best way to meet patient needs through collaboration and constant dialogue between those involved in health care in both the public and private sectors.
+
+Beyond scientific research, [Digital, Data and Information Systems are also a key element of our innovation and transformation](https://servier.com/en/newsroom/digital-data-pillars-transformation/).
+
+So open source and the people behind it are a natural way of fostering a technological culture.
+
+**We love "tech" and we value our tech people!**
 
 ## How to submit your project to the Servier Hub?
 * Link your own Github repositories to the project by using the [servier topic](https://github.com/topics/servier).
 * Add a [Servier badge](https://github.com/servierhub/.github) to your README.
 * Request to fork your project within the Servier Hub organization (we will fork only the main repository in the case of multi-repo projects).
+* Select an appropriate [license](https://opensource.org/license) with us.
 
 ## How to contribute to our projects?
 We value contributions from anyone (ideas, issues, modifications, add-ons, etc.).
