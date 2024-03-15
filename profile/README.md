@@ -1,5 +1,5 @@
 # Servier Open Source Hub
-Welcome to the [Servier](https://servier.com/en/) Hub.
+Welcome to the [Servier](https://servier.com/en/) Hub on GitHub.
 This initiative showcases [Open Source software, contributed, inspired or built by Servier and its people](https://github.com/topics/servier).
 
 ## Why open sourcing some of our software?
@@ -18,7 +18,7 @@ So open source and the people behind it are a natural way of fostering a technol
 * Select an appropriate [license](https://opensource.org/license) with us.
 
 ## How to contribute to our projects?
-We value contributions from anyone (ideas, issues, modifications, add-ons, etc.).
+We welcome contributions from anyone (ideas, issues, modifications, add-ons, etc.).
 Feel free to [fork](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) our projects
 and send [pull requests](https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) for your contributions.
 
