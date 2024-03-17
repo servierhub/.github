@@ -7,7 +7,7 @@ At Servier, we believe in [Open Innovation](https://servier.com/en/research-inno
 
 Beyond scientific research, [Digital, Data and Information Systems are also a key element of our innovation and transformation](https://servier.com/en/newsroom/digital-data-pillars-transformation/).
 
-So open source and the people behind it are a natural way of fostering a technological culture within our Group.
+So open source software and the people behind it are a natural way of fostering a technological culture within our Group.
 
 **We love "tech" and we value our tech people!** [![Servier Powered](https://raw.githubusercontent.com/servierhub/.github/main/badges/powered.svg)](https://servier.com/en/)
 
